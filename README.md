@@ -6,4 +6,4 @@
 
 <br>
 
-<img width="1107" alt="Screenshot 2024-03-17 at 11 33 42 PM" src="https://github.com/sadia4444a/NumPy-for-machine-learning/assets/73788572/51bdf6e0-da67-491b-9b1a-d900e927e423">
+<img width="775" alt="Screenshot 2024-03-17 at 11 36 30 PM" src="https://github.com/sadia4444a/NumPy-for-machine-learning/assets/73788572/e026e6ad-fb30-4584-b221-c4abc9b2eec8">
